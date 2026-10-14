@@ -1,0 +1,15 @@
+PORTOFOLI - PAKETA UNIKE PER GITHUB
+
+1. Hape ZIP-in dhe bej EXTRACT ALL.
+2. Ne AD-portofolio ne GitHub: Add file -> Upload files.
+3. Nga folderi i nxjerre, ngarko index.html, style.css, script.js dhe folderat images, videos.
+   Mos ngarko vete .ZIP si nje file. Kur GitHub te pranoje file me te njejtin emer, zgjidh replace/commit.
+4. Ruaj strukturen e folderave: images/...jpg dhe videos/...mp4+...jpg.
+5. Kliko Commit changes. Pas publikimit hap https://deliualesja.github.io/AD-portofolio/
+
+KUJDES: Fotot origjinale te seksionit te pare (portrait, 2 insights, 3 postime) dhe CV-ja
+mbeten te lidhura me repository-n e vjeter AlesjaDeliu-portfolio dhe NUK jane fizikisht ne kete ZIP.
+Mos e fshi repository-n e vjeter. Keto 7 skedare kerkojne qe repository i vjeter te vazhdoje online.
+
+Paketa permban fizikisht 13 videot MP4 te optimizuara, 13 covers JPG, 7 screenshot-e
+dhe tere kodin (HTML, CSS, JS). Te gjitha lidhjet lokale jane kontrolluar.
